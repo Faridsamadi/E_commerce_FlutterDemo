@@ -1,16 +1,13 @@
-# shop_demo
+# E-Commerce Flutter Demo
 
-A new Flutter project.
+This is just a mockup and the functionality willl be added later
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+![ui](https://github.com/abuanwar072/E-commerce-App-UI-Flutter/blob/master/intro.gif)
+![ui](https://github.com/Faridsamadi/E_commerce_FlutterDemo/assets/122729769/5f2f64e9-29d3-48d2-8e16-1bd9f983dbc2)
 
-A few resources to get you started if this is your first Flutter project:
+A Tutorial project done by junior flutter developer "Farid Samadi"
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Tutorial author "Abu Anwar"
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
